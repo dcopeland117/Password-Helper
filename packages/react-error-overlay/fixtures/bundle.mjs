@@ -26075,7 +26075,7 @@ rawAsap.makeRequestCallFromTimer = makeRequestCallFromTimer;
 /* unknown exports provided */
 /* all exports used */
 /*!****************************************************!*\
-  !*** ./packages/react-scripts/template/src/App.js ***!
+  !*** ./packages/react-scripts/template/src/Passwordcomponent.js ***!
   \****************************************************/
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -26085,7 +26085,7 @@ rawAsap.makeRequestCallFromTimer = makeRequestCallFromTimer;
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var _jsxFileName = '/Users/joe/Documents/Development/OSS/create-react-app/packages/react-scripts/template/src/App.js';
+var _jsxFileName = '/Users/joe/Documents/Development/OSS/create-react-app/packages/react-scripts/template/src/Passwordcomponent.js';
 
 var _createClass = function () { function defineProperties(target, props) { for (var i = 0; i < props.length; i++) { var descriptor = props[i]; descriptor.enumerable = descriptor.enumerable || false; descriptor.configurable = true; if ("value" in descriptor) descriptor.writable = true; Object.defineProperty(target, descriptor.key, descriptor); } } return function (Constructor, protoProps, staticProps) { if (protoProps) defineProperties(Constructor.prototype, protoProps); if (staticProps) defineProperties(Constructor, staticProps); return Constructor; }; }();
 
@@ -26176,7 +26176,7 @@ var App = function (_Component) {
               },
               __self: this
             },
-            'src/App.js'
+            'src/Passwordcomponent.js'
           ),
           ' and save to reload.'
         )

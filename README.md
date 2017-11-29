@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Create React App [![Build Status](https://travis-ci.org/facebookincubator/create-react-app.svg?branch=master)](https://travis-ci.org/facebookincubator/create-react-app)
 
 Create React apps with no build configuration.
@@ -250,3 +251,7 @@ Notable alternatives also include:
 
 You can also use module bundlers like [webpack](http://webpack.js.org) and [Browserify](http://browserify.org/) directly.<br>
 React documentation includes [a walkthrough](https://facebook.github.io/react/docs/package-management.html) on this topic.
+=======
+# Password-Helper
+A basic form with validation matching password enforcement rules to aid in the creation of new memorable valid passwords
+>>>>>>> a9c9e1036568303a009b45f4400ecb5952828b2c

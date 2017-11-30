@@ -9,7 +9,6 @@ password enforcement policies to allow this app to serve your specific needs.
 To understand the app architecture and the files that have been created & modified , please view
 packages/react-scripts/template/src/docs/Architecture.md
 
-For information on the
 ***Download & Install the app***
 
 1. Open command line, and cd to the directory you want the project to exist in
